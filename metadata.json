@@ -1,0 +1,5 @@
+{
+  "name": "LuminaScan",
+  "description": "A professional-grade document scanner with perspective correction and PDF export.",
+  "requestFramePermissions": ["camera"]
+}
